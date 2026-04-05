@@ -11,7 +11,7 @@ The goal is to:
 ---
 
 ## 📊 Dataset
-- Source: [Diwali Sales Dataset] (!wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/MpykN-nosN1Sn19AVgzEOg/Diwali-Sales-Data.csv)
+- Source: [Diwali Sales Dataset](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/MpykN-nosN1Sn19AVgzEOg/Diwali-Sales-Data.csv)
 - Features include:
   - Gender, Age, Age Group
   - State, Occupation
@@ -127,3 +127,6 @@ In summary, the analysis of Diwali sales data reveals four distinct customer clu
 ## 🙋‍♂️ Author
 **Vaibhav Mahale**  
 🎓 Data Analyst Aspirant  
+📬 Connect With Me
+📧 Email: mahalevaibhav112@email.com
+🔗 LinkedIn:[ https://www.linkedin.com/in/](https://www.linkedin.com/in/vaibhavm1122/)
