@@ -128,6 +128,5 @@ In summary, the analysis of Diwali sales data reveals four distinct customer clu
 **Vaibhav Mahale**  
 🎓 Data Analyst Aspirant  
 📬 Connect With Me
-📧 Email: mahalevaibhav112@email.com
-🔗 LinkedIn:[ https://www.linkedin.com/in/]
-(https://www.linkedin.com/in/vaibhavm1122/)
+- 📧 Email: mahalevaibhav112@email.com
+- 🔗 LinkedIn:[ https://www.linkedin.com/in/](https://www.linkedin.com/in/vaibhavm1122/)
